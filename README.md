@@ -1,7 +1,7 @@
 # image-to-ASCII-python
 
 Memory allocator in C. Mimics functions ```malloc()```, ```free()```, ```mallopt()```, ```mallinfo()```.<br />
-Has options for First Fit, Best Fit, and Worst Fit algorithms.
+Has options for First Fit, Best Fit, and Worst Fit algorithms.<br />
 Intended to be included with ```#include <alloc.h>```.<br />
 <br />
 From alloc.h:<br />
